@@ -1,19 +1,8 @@
-# MK-UNet screening experiments for Prof. Rahman
+# Budgeted test-time adaptation with rollback for lightweight segmentation
 
-This package records AI-assisted screening work for Yuvraj Verma. It contains actual experiments, not invented metrics. The original MK-UNet architecture is preserved, including its BSD-3-Clause license. Candidate review and an analysis rewritten in the candidate's own words are required before submission.
+Experiments and preliminary research on controlling test-time updates in lightweight segmentation. The repository includes two independently trained MK-UNet models, a predeclared adaptation pilot, checkpoints, logs and reproducibility audits. The original MK-UNet architecture and BSD-3-Clause license are preserved.
 
-## Recorded results (single seed, native masks)
-
-| Task | Mean Dice | Mean IoU | Selected epoch |
-| --- | ---: | ---: | ---: |
-| ClinicDB, 62 test images | 89.59% | 83.62% | 58 |
-| Massachusetts Buildings, 10 test tiles | 71.95% | 56.25% | 136 |
-
-The source normalized Dice is also 89.59%, below the paper's five-run mean of 93.48%. This is a declared reproduction attempt with protocol differences, not exact equivalence.
-
-The predeclared adaptation pilot accepted 110/310 polyp candidates and retained one update causing >1 Dice-point loss, versus eight ungated harmful candidates. For buildings, it accepted only 1/50 candidates. Noise reduced frozen Dice to 24.11% and 5.34% respectively. These results expose limitations; they do not establish successful adaptation or clinical reliability. See [the independent evidence audit](evidence_audit.json), [per-case records](runs/clinic_seed42/pilot/per_case.json), and [learning/failure figures](figures/).
-
-GPU inference is not bitwise deterministic. Clean pilot versus main per-case Dice differences reach 0.059 percentage points for ClinicDB and 0.006 for buildings; ground-truth counts agree exactly. The paired pilot compares each candidate with its own frozen prediction. Regenerated qualitative scores and differences are recorded in figures/qualitative_verification.json.
+[Research submission](submission/Research_Submission.pdf) | [Individual reports](submission/README.md)
 
 ## Environment
 
@@ -66,7 +55,7 @@ The gate accepts only if horizontal-flip Bernoulli Jensen-Shannon disagreement i
 
 config.json; history.jsonl; data_manifest.json; best.pt; last.pt; results.json; raw console logs; pilot/protocol.json; pilot/per_case.json; pilot/summary.json. results.json contains the checkpoint hash and every original test image/tile metric. Bootstrap intervals in the pilot are paired image/tile intervals and do not model source video or geographical dependence.
 
-The reports distinguish completed experiments from future proposal components. Actual metrics must never be replaced with a paper's published scores. Before emailing, review the analysis and code, check that the external code link works without private account access, and ensure the prose is your own considered interpretation.
+The reports distinguish completed experiments from proposed components. Assistance with code development and initial drafting is disclosed in the proposal.
 
 ## Research sources
 
