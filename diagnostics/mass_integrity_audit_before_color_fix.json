@@ -1,0 +1,20 @@
+{
+  "train": {
+    "tiles": 137,
+    "foreground_fraction_min": 0.010228888888888888,
+    "foreground_fraction_max": 0.102048,
+    "foreground_fraction_mean": 0.043985283590159505
+  },
+  "valid": {
+    "tiles": 4,
+    "foreground_fraction_min": 0.01989851851851852,
+    "foreground_fraction_max": 0.05019540740740741,
+    "foreground_fraction_mean": 0.036280962962962966
+  },
+  "test": {
+    "tiles": 10,
+    "foreground_fraction_min": 0.029356444444444445,
+    "foreground_fraction_max": 0.11896207407407407,
+    "foreground_fraction_mean": 0.06202204444444444
+  }
+}

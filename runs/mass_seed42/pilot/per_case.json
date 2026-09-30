@@ -1,0 +1,1702 @@
+[
+  {
+    "condition": "clean",
+    "name": "22828930_15.tiff",
+    "baseline": {
+      "dice": 0.7228292565095298,
+      "iou": 0.5659613330435036,
+      "intersection": 314194,
+      "predicted": 480242,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.7227801341445285,
+      "iou": 0.5659011055711347,
+      "intersection": 314233,
+      "predicted": 480409,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.7228292565095298,
+      "iou": 0.5659613330435036,
+      "intersection": 314194,
+      "predicted": 480242,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.03546200692653656,
+    "js_after": 0.035478223115205765,
+    "area_change": 7.2479248046875e-05,
+    "baseline_two_forward_seconds": 0.033939699991606176,
+    "adapt_extra_seconds": 0.5047782000037841
+  },
+  {
+    "condition": "clean",
+    "name": "22828990_15.tiff",
+    "baseline": {
+      "dice": 0.7044895493192967,
+      "iou": 0.543793026871988,
+      "intersection": 244870,
+      "predicted": 380943,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.7044765558940967,
+      "iou": 0.5437775434322167,
+      "intersection": 244931,
+      "predicted": 381129,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.7044895493192967,
+      "iou": 0.543793026871988,
+      "intersection": 244870,
+      "predicted": 380943,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.03795791417360306,
+    "js_after": 0.037988774478435516,
+    "area_change": 9.5367431640625e-05,
+    "baseline_two_forward_seconds": 0.02160629999707453,
+    "adapt_extra_seconds": 0.05536150000989437
+  },
+  {
+    "condition": "clean",
+    "name": "22829050_15.tiff",
+    "baseline": {
+      "dice": 0.7534540175640828,
+      "iou": 0.6044333928960641,
+      "intersection": 241861,
+      "predicted": 345358,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.753456763015706,
+      "iou": 0.6044369265835704,
+      "intersection": 241915,
+      "predicted": 345499,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.7534540175640828,
+      "iou": 0.6044333928960641,
+      "intersection": 241861,
+      "predicted": 345358,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.033320728689432144,
+    "js_after": 0.03333831951022148,
+    "area_change": 6.866455078125e-05,
+    "baseline_two_forward_seconds": 0.017600299994228408,
+    "adapt_extra_seconds": 0.04230679999454878
+  },
+  {
+    "condition": "clean",
+    "name": "23429020_15.tiff",
+    "baseline": {
+      "dice": 0.7302350971789943,
+      "iou": 0.5750947246667043,
+      "intersection": 523036,
+      "predicted": 703693,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.7301750391409142,
+      "iou": 0.5750202284944999,
+      "intersection": 523043,
+      "predicted": 703830,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.7302350971789943,
+      "iou": 0.5750947246667043,
+      "intersection": 523036,
+      "predicted": 703693,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.04109790548682213,
+    "js_after": 0.0411086305975914,
+    "area_change": 1.52587890625e-05,
+    "baseline_two_forward_seconds": 0.01893209997797385,
+    "adapt_extra_seconds": 0.050830199994379655
+  },
+  {
+    "condition": "clean",
+    "name": "23429080_15.tiff",
+    "baseline": {
+      "dice": 0.7407887113393412,
+      "iou": 0.588295799132866,
+      "intersection": 374625,
+      "predicted": 561388,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.7407375189670773,
+      "iou": 0.5882312306802685,
+      "intersection": 374678,
+      "predicted": 561601,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.7407887113393412,
+      "iou": 0.588295799132866,
+      "intersection": 374625,
+      "predicted": 561388,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.04363276809453964,
+    "js_after": 0.04366137832403183,
+    "area_change": 4.1961669921875e-05,
+    "baseline_two_forward_seconds": 0.01934539998183027,
+    "adapt_extra_seconds": 0.0444988000090234
+  },
+  {
+    "condition": "clean",
+    "name": "23578960_15.tiff",
+    "baseline": {
+      "dice": 0.7130019530695112,
+      "iou": 0.5540039122595742,
+      "intersection": 387154,
+      "predicted": 604522,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.7129991372399284,
+      "iou": 0.5540005122539374,
+      "intersection": 387176,
+      "predicted": 604588,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.7130019530695112,
+      "iou": 0.5540039122595742,
+      "intersection": 387154,
+      "predicted": 604522,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.030362868681550026,
+    "js_after": 0.030375832691788673,
+    "area_change": 3.0517578125e-05,
+    "baseline_two_forward_seconds": 0.01919260001159273,
+    "adapt_extra_seconds": 0.04383380000945181
+  },
+  {
+    "condition": "clean",
+    "name": "23579005_15.tiff",
+    "baseline": {
+      "dice": 0.7427152089420057,
+      "iou": 0.5907294944030034,
+      "intersection": 565145,
+      "predicted": 718841,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.7427717294894628,
+      "iou": 0.590801007988872,
+      "intersection": 565253,
+      "predicted": 719016,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.7427152089420057,
+      "iou": 0.5907294944030034,
+      "intersection": 565145,
+      "predicted": 718841,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.039860837161540985,
+    "js_after": 0.039859965443611145,
+    "area_change": 7.2479248046875e-05,
+    "baseline_two_forward_seconds": 0.02077810000628233,
+    "adapt_extra_seconds": 0.04404089998570271
+  },
+  {
+    "condition": "clean",
+    "name": "23729035_15.tiff",
+    "baseline": {
+      "dice": 0.6631239324357493,
+      "iou": 0.4960249858052042,
+      "intersection": 148495,
+      "predicted": 225292,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.6631663271210938,
+      "iou": 0.49607242888643904,
+      "intersection": 148598,
+      "predicted": 225574,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.6631239324357493,
+      "iou": 0.4960249858052042,
+      "intersection": 148495,
+      "predicted": 225292,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.031126368790864944,
+    "js_after": 0.031177081167697906,
+    "area_change": 0.0001068115234375,
+    "baseline_two_forward_seconds": 0.020122400019317865,
+    "adapt_extra_seconds": 0.04452070000115782
+  },
+  {
+    "condition": "clean",
+    "name": "23879080_15.tiff",
+    "baseline": {
+      "dice": 0.7246791994514163,
+      "iou": 0.568232870616274,
+      "intersection": 164679,
+      "predicted": 256332,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.7246325170962865,
+      "iou": 0.5681754684911815,
+      "intersection": 164726,
+      "predicted": 256491,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.7246791994514163,
+      "iou": 0.568232870616274,
+      "intersection": 164679,
+      "predicted": 256332,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.0135662741959095,
+    "js_after": 0.013574273325502872,
+    "area_change": 5.340576171875e-05,
+    "baseline_two_forward_seconds": 0.020423200010554865,
+    "adapt_extra_seconds": 0.04446699999971315
+  },
+  {
+    "condition": "clean",
+    "name": "24179065_15.tiff",
+    "baseline": {
+      "dice": 0.6999416162386547,
+      "iou": 0.5383924483563004,
+      "intersection": 215196,
+      "predicted": 312426,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.69999187190165,
+      "iou": 0.5384519194709555,
+      "intersection": 215300,
+      "predicted": 312679,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.6999416162386547,
+      "iou": 0.5383924483563004,
+      "intersection": 215196,
+      "predicted": 312426,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.02745211124420166,
+    "js_after": 0.027465159073472023,
+    "area_change": 8.7738037109375e-05,
+    "baseline_two_forward_seconds": 0.020161399996140972,
+    "adapt_extra_seconds": 0.04619159997673705
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "22828930_15.tiff",
+    "baseline": {
+      "dice": 0.6503897221097952,
+      "iou": 0.48190928356521234,
+      "intersection": 323591,
+      "predicted": 605965,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.6503658341736144,
+      "iou": 0.4818830544171307,
+      "intersection": 323597,
+      "predicted": 606020,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.6503897221097952,
+      "iou": 0.48190928356521234,
+      "intersection": 323591,
+      "predicted": 605965,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.08544594049453735,
+    "js_after": 0.08547164499759674,
+    "area_change": 1.52587890625e-05,
+    "baseline_two_forward_seconds": 0.02312769999844022,
+    "adapt_extra_seconds": 0.044773500005248934
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "22828990_15.tiff",
+    "baseline": {
+      "dice": 0.6454478184501427,
+      "iou": 0.4765027344405033,
+      "intersection": 236819,
+      "predicted": 419586,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.6454974418216665,
+      "iou": 0.47655682739389366,
+      "intersection": 236935,
+      "predicted": 419889,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.6454478184501427,
+      "iou": 0.4765027344405033,
+      "intersection": 236819,
+      "predicted": 419586,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.061303071677684784,
+    "js_after": 0.06136525422334671,
+    "area_change": 9.5367431640625e-05,
+    "baseline_two_forward_seconds": 0.01896159999887459,
+    "adapt_extra_seconds": 0.04710589998285286
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "22829050_15.tiff",
+    "baseline": {
+      "dice": 0.6749487234103164,
+      "iou": 0.5093755504678762,
+      "intersection": 231338,
+      "predicted": 388850,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.6748655396502355,
+      "iou": 0.5092808011896566,
+      "intersection": 231379,
+      "predicted": 389056,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.6749487234103164,
+      "iou": 0.5093755504678762,
+      "intersection": 231338,
+      "predicted": 388850,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.05259416997432709,
+    "js_after": 0.052608415484428406,
+    "area_change": 9.1552734375e-05,
+    "baseline_two_forward_seconds": 0.019855999998981133,
+    "adapt_extra_seconds": 0.04254989998298697
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "23429020_15.tiff",
+    "baseline": {
+      "dice": 0.5183569571763506,
+      "iou": 0.3498527932807559,
+      "intersection": 335696,
+      "predicted": 566410,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5188480189532726,
+      "iou": 0.3503003240674227,
+      "intersection": 336392,
+      "predicted": 567867,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5183569571763506,
+      "iou": 0.3498527932807559,
+      "intersection": 335696,
+      "predicted": 566410,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.08030658215284348,
+    "js_after": 0.08038817346096039,
+    "area_change": 0.000640869140625,
+    "baseline_two_forward_seconds": 0.020252500020433217,
+    "adapt_extra_seconds": 0.04746879998128861
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "23429080_15.tiff",
+    "baseline": {
+      "dice": 0.6261748212001237,
+      "iou": 0.45578930337234685,
+      "intersection": 369033,
+      "predicted": 728656,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.6262021922832098,
+      "iou": 0.4558183080262738,
+      "intersection": 369046,
+      "predicted": 728646,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.6261748212001237,
+      "iou": 0.45578930337234685,
+      "intersection": 369033,
+      "predicted": 728656,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.08403727412223816,
+    "js_after": 0.084088534116745,
+    "area_change": 3.814697265625e-06,
+    "baseline_two_forward_seconds": 0.021183300006669015,
+    "adapt_extra_seconds": 0.06778760001179762
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "23578960_15.tiff",
+    "baseline": {
+      "dice": 0.6310682881326503,
+      "iou": 0.4609932567580514,
+      "intersection": 374770,
+      "predicted": 706271,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.6310974043531422,
+      "iou": 0.4610243317241859,
+      "intersection": 374686,
+      "predicted": 705950,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.6310682881326503,
+      "iou": 0.4609932567580514,
+      "intersection": 374770,
+      "predicted": 706271,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.07205402851104736,
+    "js_after": 0.07207387685775757,
+    "area_change": 0.000156402587890625,
+    "baseline_two_forward_seconds": 0.02171119998092763,
+    "adapt_extra_seconds": 0.0497421000036411
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "23579005_15.tiff",
+    "baseline": {
+      "dice": 0.4960348447355548,
+      "iou": 0.3298180433235389,
+      "intersection": 303958,
+      "predicted": 422557,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.4973551869130239,
+      "iou": 0.3309865262781704,
+      "intersection": 305298,
+      "predicted": 424692,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.4960348447355548,
+      "iou": 0.3298180433235389,
+      "intersection": 303958,
+      "predicted": 422557,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.0533597357571125,
+    "js_after": 0.05347174406051636,
+    "area_change": 0.00089263916015625,
+    "baseline_two_forward_seconds": 0.02441409998573363,
+    "adapt_extra_seconds": 0.04637009999714792
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "23729035_15.tiff",
+    "baseline": {
+      "dice": 0.5691199403206713,
+      "iou": 0.3977411918435488,
+      "intersection": 126640,
+      "predicted": 222465,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5692717584379109,
+      "iou": 0.39788950962324077,
+      "intersection": 126918,
+      "predicted": 223323,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5691199403206713,
+      "iou": 0.3977411918435488,
+      "intersection": 126640,
+      "predicted": 222465,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.04483165591955185,
+    "js_after": 0.04494258761405945,
+    "area_change": 0.000293731689453125,
+    "baseline_two_forward_seconds": 0.032622700004139915,
+    "adapt_extra_seconds": 0.04548329999670386
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "23879080_15.tiff",
+    "baseline": {
+      "dice": 0.5599968588040679,
+      "iou": 0.38888585919346436,
+      "intersection": 142620,
+      "predicted": 311204,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5597659411451722,
+      "iou": 0.3886631743672667,
+      "intersection": 142824,
+      "predicted": 312143,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5599968588040679,
+      "iou": 0.38888585919346436,
+      "intersection": 142620,
+      "predicted": 311204,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.03551661968231201,
+    "js_after": 0.03555605188012123,
+    "area_change": 0.000396728515625,
+    "baseline_two_forward_seconds": 0.01950659998692572,
+    "adapt_extra_seconds": 0.041958500019973144
+  },
+  {
+    "condition": "brightness_0.65",
+    "name": "24179065_15.tiff",
+    "baseline": {
+      "dice": 0.5415287262072968,
+      "iou": 0.37129886336395423,
+      "intersection": 186558,
+      "predicted": 386534,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5414142585806067,
+      "iou": 0.37119124588085717,
+      "intersection": 186704,
+      "predicted": 387219,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5415287262072968,
+      "iou": 0.37129886336395423,
+      "intersection": 186558,
+      "predicted": 386534,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.05184473097324371,
+    "js_after": 0.05189185589551926,
+    "area_change": 0.000335693359375,
+    "baseline_two_forward_seconds": 0.018573699984699488,
+    "adapt_extra_seconds": 0.04607690000557341
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "22828930_15.tiff",
+    "baseline": {
+      "dice": 0.5969476158189734,
+      "iou": 0.42546352691457495,
+      "intersection": 290946,
+      "predicted": 585676,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5971762484741305,
+      "iou": 0.425695849407428,
+      "intersection": 291001,
+      "predicted": 585487,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5969476158189734,
+      "iou": 0.42546352691457495,
+      "intersection": 290946,
+      "predicted": 585676,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.08262063562870026,
+    "js_after": 0.0826549381017685,
+    "area_change": 0.000110626220703125,
+    "baseline_two_forward_seconds": 0.019493100000545382,
+    "adapt_extra_seconds": 0.04182830001809634
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "22828990_15.tiff",
+    "baseline": {
+      "dice": 0.5619569443320857,
+      "iou": 0.3907789423398014,
+      "intersection": 186459,
+      "predicted": 349379,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5621744340805233,
+      "iou": 0.3909893156767835,
+      "intersection": 186706,
+      "predicted": 350001,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5619569443320857,
+      "iou": 0.3907789423398014,
+      "intersection": 186459,
+      "predicted": 349379,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.059284359216690063,
+    "js_after": 0.05937523394823074,
+    "area_change": 0.00025177001953125,
+    "baseline_two_forward_seconds": 0.01988900001742877,
+    "adapt_extra_seconds": 0.04339279999840073
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "22829050_15.tiff",
+    "baseline": {
+      "dice": 0.6166390691435569,
+      "iou": 0.4457542897084859,
+      "intersection": 206682,
+      "predicted": 373702,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.6168307887705051,
+      "iou": 0.4459546841872167,
+      "intersection": 206898,
+      "predicted": 374194,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.6166390691435569,
+      "iou": 0.4457542897084859,
+      "intersection": 206682,
+      "predicted": 373702,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.057149119675159454,
+    "js_after": 0.05721522122621536,
+    "area_change": 0.000217437744140625,
+    "baseline_two_forward_seconds": 0.018953599996166304,
+    "adapt_extra_seconds": 0.04760550000355579
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "23429020_15.tiff",
+    "baseline": {
+      "dice": 0.47414416610432314,
+      "iou": 0.3107398193014946,
+      "intersection": 296640,
+      "predicted": 522444,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.47461362660009404,
+      "iou": 0.311143219106374,
+      "intersection": 297176,
+      "predicted": 523465,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.47414416610432314,
+      "iou": 0.3107398193014946,
+      "intersection": 296640,
+      "predicted": 522444,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.06917618215084076,
+    "js_after": 0.06929852068424225,
+    "area_change": 0.000423431396484375,
+    "baseline_two_forward_seconds": 0.019200699985958636,
+    "adapt_extra_seconds": 0.04244799999287352
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "23429080_15.tiff",
+    "baseline": {
+      "dice": 0.5578727432630511,
+      "iou": 0.386840163139154,
+      "intersection": 348572,
+      "predicted": 799613,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5579041462370025,
+      "iou": 0.3868703628692232,
+      "intersection": 348576,
+      "predicted": 799557,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5578727432630511,
+      "iou": 0.386840163139154,
+      "intersection": 348572,
+      "predicted": 799613,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.08443666994571686,
+    "js_after": 0.08448801934719086,
+    "area_change": 2.6702880859375e-05,
+    "baseline_two_forward_seconds": 0.019081900012679398,
+    "adapt_extra_seconds": 0.05630680001922883
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "23578960_15.tiff",
+    "baseline": {
+      "dice": 0.5441002483474229,
+      "iou": 0.3737209569068038,
+      "intersection": 306286,
+      "predicted": 644383,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5443663503935635,
+      "iou": 0.3739720846253459,
+      "intersection": 306515,
+      "predicted": 644674,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5441002483474229,
+      "iou": 0.3737209569068038,
+      "intersection": 306286,
+      "predicted": 644383,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.08669506013393402,
+    "js_after": 0.0867636427283287,
+    "area_change": 4.57763671875e-05,
+    "baseline_two_forward_seconds": 0.019312099990202114,
+    "adapt_extra_seconds": 0.04477530001895502
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "23579005_15.tiff",
+    "baseline": {
+      "dice": 0.43012790066829654,
+      "iou": 0.2739891363455762,
+      "intersection": 254477,
+      "predicted": 380268,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.43111906672892375,
+      "iou": 0.2747939997146015,
+      "intersection": 255418,
+      "predicted": 381913,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.43012790066829654,
+      "iou": 0.2739891363455762,
+      "intersection": 254477,
+      "predicted": 380268,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.05481923371553421,
+    "js_after": 0.05493868142366409,
+    "area_change": 0.000701904296875,
+    "baseline_two_forward_seconds": 0.01989210001192987,
+    "adapt_extra_seconds": 0.0577216999954544
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "23729035_15.tiff",
+    "baseline": {
+      "dice": 0.49006657670103354,
+      "iou": 0.32456171188772964,
+      "intersection": 120020,
+      "predicted": 267238,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.4902057794157669,
+      "iou": 0.3246838362034865,
+      "intersection": 120384,
+      "predicted": 268584,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.49006657670103354,
+      "iou": 0.32456171188772964,
+      "intersection": 120020,
+      "predicted": 267238,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.05031641572713852,
+    "js_after": 0.050438981503248215,
+    "area_change": 0.00058746337890625,
+    "baseline_two_forward_seconds": 0.021913600008701906,
+    "adapt_extra_seconds": 0.045700799993937835
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "23879080_15.tiff",
+    "baseline": {
+      "dice": 0.5107176882930878,
+      "iou": 0.34292872766942,
+      "intersection": 147685,
+      "predicted": 380187,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.5103493052410285,
+      "iou": 0.34259662821473674,
+      "intersection": 147777,
+      "predicted": 380965,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.5107176882930878,
+      "iou": 0.34292872766942,
+      "intersection": 147685,
+      "predicted": 380187,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.041522808372974396,
+    "js_after": 0.04155530035495758,
+    "area_change": 0.0003509521484375,
+    "baseline_two_forward_seconds": 0.02514869999140501,
+    "adapt_extra_seconds": 0.045117300003767014
+  },
+  {
+    "condition": "gamma_1.8",
+    "name": "24179065_15.tiff",
+    "baseline": {
+      "dice": 0.4673306758349158,
+      "iou": 0.30491291791876857,
+      "intersection": 191739,
+      "predicted": 518100,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.4671359532130958,
+      "iou": 0.3047471523603958,
+      "intersection": 192016,
+      "predicted": 519628,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.4673306758349158,
+      "iou": 0.30491291791876857,
+      "intersection": 191739,
+      "predicted": 518100,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.06311474740505219,
+    "js_after": 0.06316114962100983,
+    "area_change": 0.000614166259765625,
+    "baseline_two_forward_seconds": 0.02102839999133721,
+    "adapt_extra_seconds": 0.04289979999884963
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "22828930_15.tiff",
+    "baseline": {
+      "dice": 0.09043819057727255,
+      "iou": 0.047360703452098106,
+      "intersection": 19153,
+      "predicted": 34457,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.0916560539618611,
+      "iou": 0.04802910615478455,
+      "intersection": 19432,
+      "predicted": 34917,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.09043819057727255,
+      "iou": 0.047360703452098106,
+      "intersection": 19153,
+      "predicted": 34457,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.014308221638202667,
+    "js_after": 0.014430421404540539,
+    "area_change": 0.000244140625,
+    "baseline_two_forward_seconds": 0.01867239997955039,
+    "adapt_extra_seconds": 0.04339619999518618
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "22828990_15.tiff",
+    "baseline": {
+      "dice": 0.057605857343155153,
+      "iou": 0.029657141195404302,
+      "intersection": 10181,
+      "predicted": 39244,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.058203585370652317,
+      "iou": 0.029974092512939265,
+      "intersection": 10297,
+      "predicted": 39600,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.057605857343155153,
+      "iou": 0.029657141195404302,
+      "intersection": 10181,
+      "predicted": 39244,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.011859986931085587,
+    "js_after": 0.011937315575778484,
+    "area_change": 0.000156402587890625,
+    "baseline_two_forward_seconds": 0.02058809998561628,
+    "adapt_extra_seconds": 0.04681150001124479
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "22829050_15.tiff",
+    "baseline": {
+      "dice": 0.07593019654025424,
+      "iou": 0.03946332737342832,
+      "intersection": 12133,
+      "predicted": 22935,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.07663544389568727,
+      "iou": 0.039844471322644494,
+      "intersection": 12256,
+      "predicted": 23204,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.07593019654025424,
+      "iou": 0.03946332737342832,
+      "intersection": 12133,
+      "predicted": 22935,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.010236043483018875,
+    "js_after": 0.010320681147277355,
+    "area_change": 0.000102996826171875,
+    "baseline_two_forward_seconds": 0.018833300011465326,
+    "adapt_extra_seconds": 0.04876969999168068
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "23429020_15.tiff",
+    "baseline": {
+      "dice": 0.02656580653527095,
+      "iou": 0.013461713912008021,
+      "intersection": 9886,
+      "predicted": 15444,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.02706506790572478,
+      "iou": 0.013718175631022848,
+      "intersection": 10076,
+      "predicted": 15755,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.02656580653527095,
+      "iou": 0.013461713912008021,
+      "intersection": 9886,
+      "predicted": 15444,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.008255930617451668,
+    "js_after": 0.008342353627085686,
+    "area_change": 0.0001373291015625,
+    "baseline_two_forward_seconds": 0.0196177999896463,
+    "adapt_extra_seconds": 0.0520816000062041
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "23429080_15.tiff",
+    "baseline": {
+      "dice": 0.10098648687090533,
+      "iou": 0.05317839297858386,
+      "intersection": 24968,
+      "predicted": 44448,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.10187561378945544,
+      "iou": 0.05367172695924016,
+      "intersection": 25208,
+      "predicted": 44844,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.10098648687090533,
+      "iou": 0.05317839297858386,
+      "intersection": 24968,
+      "predicted": 44448,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.014530019834637642,
+    "js_after": 0.014618786983191967,
+    "area_change": 0.000213623046875,
+    "baseline_two_forward_seconds": 0.01926370000001043,
+    "adapt_extra_seconds": 0.0484883000026457
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "23578960_15.tiff",
+    "baseline": {
+      "dice": 0.03725503190125317,
+      "iou": 0.018981086442071506,
+      "intersection": 9276,
+      "predicted": 16512,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.03780007345858871,
+      "iou": 0.019264129485104895,
+      "intersection": 9417,
+      "predicted": 16792,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.03725503190125317,
+      "iou": 0.018981086442071506,
+      "intersection": 9276,
+      "predicted": 16512,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.008996227756142616,
+    "js_after": 0.009094493463635445,
+    "area_change": 0.000141143798828125,
+    "baseline_two_forward_seconds": 0.021317599981557578,
+    "adapt_extra_seconds": 0.04440640000393614
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "23579005_15.tiff",
+    "baseline": {
+      "dice": 0.016702651458433956,
+      "iou": 0.008421657736763156,
+      "intersection": 6827,
+      "predicted": 14481,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.016865303827388243,
+      "iou": 0.008504366274842735,
+      "intersection": 6895,
+      "predicted": 14661,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.016702651458433956,
+      "iou": 0.008421657736763156,
+      "intersection": 6827,
+      "predicted": 14481,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.008111191913485527,
+    "js_after": 0.008171433582901955,
+    "area_change": 9.1552734375e-05,
+    "baseline_two_forward_seconds": 0.018998099985765293,
+    "adapt_extra_seconds": 0.047102300013648346
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "23729035_15.tiff",
+    "baseline": {
+      "dice": 0.017196988896265555,
+      "iou": 0.00867306979261852,
+      "intersection": 2104,
+      "predicted": 22121,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.017437474261711217,
+      "iou": 0.008795422106175326,
+      "intersection": 2138,
+      "predicted": 22646,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.017196988896265555,
+      "iou": 0.00867306979261852,
+      "intersection": 2104,
+      "predicted": 22121,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.0113618653267622,
+    "js_after": 0.01153513602912426,
+    "area_change": 0.00025177001953125,
+    "baseline_two_forward_seconds": 0.022920800023712218,
+    "adapt_extra_seconds": 0.04893170000286773
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "23879080_15.tiff",
+    "baseline": {
+      "dice": 0.07999702337085134,
+      "iou": 0.04166505174682345,
+      "intersection": 8600,
+      "predicted": 16852,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.08094585492053172,
+      "iou": 0.04218007872916448,
+      "intersection": 8712,
+      "predicted": 17099,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.07999702337085134,
+      "iou": 0.04166505174682345,
+      "intersection": 8600,
+      "predicted": 16852,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.009262897074222565,
+    "js_after": 0.009346050210297108,
+    "area_change": 0.000110626220703125,
+    "baseline_two_forward_seconds": 0.02255299998796545,
+    "adapt_extra_seconds": 0.05789540000841953
+  },
+  {
+    "condition": "gaussian_noise_0.08",
+    "name": "24179065_15.tiff",
+    "baseline": {
+      "dice": 0.031223562454302183,
+      "iou": 0.015859374310720112,
+      "intersection": 5370,
+      "predicted": 41500,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.03153777860586325,
+      "iou": 0.01602153105401328,
+      "intersection": 5435,
+      "predicted": 42195,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.031223562454302183,
+      "iou": 0.015859374310720112,
+      "intersection": 5370,
+      "predicted": 41500,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.015393629670143127,
+    "js_after": 0.015505753457546234,
+    "area_change": 0.00032806396484375,
+    "baseline_two_forward_seconds": 0.019613999989815056,
+    "adapt_extra_seconds": 0.04424780001863837
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "22828930_15.tiff",
+    "baseline": {
+      "dice": 0.01555747623412872,
+      "iou": 0.007839721256889861,
+      "intersection": 3069,
+      "predicted": 5434,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.017625649828102774,
+      "iou": 0.008891181339731755,
+      "intersection": 3482,
+      "predicted": 6003,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.01555747623412872,
+      "iou": 0.007839721256889861,
+      "intersection": 3069,
+      "predicted": 5434,
+      "foreground": 389103,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.0021043831948190928,
+    "js_after": 0.002277013147249818,
+    "area_change": 0.000301361083984375,
+    "baseline_two_forward_seconds": 0.019191700004739687,
+    "adapt_extra_seconds": 0.05016680000699125
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "22828990_15.tiff",
+    "baseline": {
+      "dice": 0.14458267156010077,
+      "iou": 0.07792460992281283,
+      "intersection": 25580,
+      "predicted": 39619,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.15339896175774648,
+      "iou": 0.08307098208194141,
+      "intersection": 27363,
+      "predicted": 42529,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.14458267156010077,
+      "iou": 0.07792460992281283,
+      "intersection": 25580,
+      "predicted": 39619,
+      "foreground": 314227,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.011951807886362076,
+    "js_after": 0.01264136377722025,
+    "area_change": 0.001369476318359375,
+    "baseline_two_forward_seconds": 0.018289200001163408,
+    "adapt_extra_seconds": 0.04250079998746514
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "22829050_15.tiff",
+    "baseline": {
+      "dice": 0.20157910882745783,
+      "iou": 0.11208672553768875,
+      "intersection": 33841,
+      "predicted": 39111,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.20612459398227426,
+      "iou": 0.11490463233591232,
+      "intersection": 34712,
+      "predicted": 40158,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.20157910882745783,
+      "iou": 0.11208672553768875,
+      "intersection": 33841,
+      "predicted": 39111,
+      "foreground": 296648,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.010190834291279316,
+    "js_after": 0.010495413094758987,
+    "area_change": 0.00046539306640625,
+    "baseline_two_forward_seconds": 0.019034800003282726,
+    "adapt_extra_seconds": 0.054988799995044246
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "23429020_15.tiff",
+    "baseline": {
+      "dice": 0.12584856000899333,
+      "iou": 0.06714962159662856,
+      "intersection": 49776,
+      "predicted": 62225,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.13280708747165249,
+      "iou": 0.07112660217469852,
+      "intersection": 52812,
+      "predicted": 66498,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.12584856000899333,
+      "iou": 0.06714962159662856,
+      "intersection": 49776,
+      "predicted": 62225,
+      "foreground": 728821,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.018871644511818886,
+    "js_after": 0.020006945356726646,
+    "area_change": 0.001941680908203125,
+    "baseline_two_forward_seconds": 0.018194400006905198,
+    "adapt_extra_seconds": 0.04827259999001399
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "23429080_15.tiff",
+    "baseline": {
+      "dice": 0.10751112887918547,
+      "iou": 0.056809384996534575,
+      "intersection": 25685,
+      "predicted": 27777,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.1097300008377712,
+      "iou": 0.058049908684141525,
+      "intersection": 26254,
+      "predicted": 28486,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.10751112887918547,
+      "iou": 0.056809384996534575,
+      "intersection": 25685,
+      "predicted": 27777,
+      "foreground": 450034,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.006857128348201513,
+    "js_after": 0.0069831060245633125,
+    "area_change": 0.00030517578125,
+    "baseline_two_forward_seconds": 0.01900609998847358,
+    "adapt_extra_seconds": 0.042041100008646026
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "23578960_15.tiff",
+    "baseline": {
+      "dice": 0.04912321566093832,
+      "iou": 0.02518007085698045,
+      "intersection": 12232,
+      "predicted": 16552,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.06015235355137568,
+      "iou": 0.03100880301781967,
+      "intersection": 15094,
+      "predicted": 20398,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.04912321566093832,
+      "iou": 0.02518007085698045,
+      "intersection": 12232,
+      "predicted": 16552,
+      "foreground": 481461,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.004557843320071697,
+    "js_after": 0.005447939038276672,
+    "area_change": 0.001712799072265625,
+    "baseline_two_forward_seconds": 0.020555199997033924,
+    "adapt_extra_seconds": 0.048412300006020814
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "23579005_15.tiff",
+    "baseline": {
+      "dice": 0.014799516882608348,
+      "iou": 0.007454923071846598,
+      "intersection": 5998,
+      "predicted": 7573,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.02129706182730007,
+      "iou": 0.01076314257064925,
+      "intersection": 8668,
+      "predicted": 11015,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.014799516882608348,
+      "iou": 0.007454923071846598,
+      "intersection": 5998,
+      "predicted": 7573,
+      "foreground": 802994,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.0031737321987748146,
+    "js_after": 0.004531575832515955,
+    "area_change": 0.00153350830078125,
+    "baseline_two_forward_seconds": 0.020594700006768107,
+    "adapt_extra_seconds": 0.043734800012316555
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "23729035_15.tiff",
+    "baseline": {
+      "dice": 0.17728411281106518,
+      "iou": 0.0972637118383008,
+      "intersection": 22401,
+      "predicted": 30140,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.18505251320523183,
+      "iou": 0.10196025755850892,
+      "intersection": 23531,
+      "predicted": 31744,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.17728411281106518,
+      "iou": 0.0972637118383008,
+      "intersection": 22401,
+      "predicted": 30140,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.009837483987212181,
+    "js_after": 0.010394004173576832,
+    "area_change": 0.000766754150390625,
+    "baseline_two_forward_seconds": 0.021323599998140708,
+    "adapt_extra_seconds": 0.043998299981467426
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "23879080_15.tiff",
+    "baseline": {
+      "dice": 0.0003733677823953391,
+      "iou": 0.0001867187511029692,
+      "intersection": 37,
+      "predicted": 40,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.000625548621267515,
+      "iou": 0.00031287217153310956,
+      "intersection": 62,
+      "predicted": 70,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.000625548621267515,
+      "iou": 0.00031287217153310956,
+      "intersection": 62,
+      "predicted": 70,
+      "foreground": 198156,
+      "pixels": 2250000
+    },
+    "accepted": true,
+    "js_before": 0.00058035459369421,
+    "js_after": 0.0005610661464743316,
+    "area_change": 1.9073486328125e-05,
+    "baseline_two_forward_seconds": 0.021206799981882796,
+    "adapt_extra_seconds": 0.04098550000344403
+  },
+  {
+    "condition": "gaussian_blur_1.5",
+    "name": "24179065_15.tiff",
+    "baseline": {
+      "dice": 0.1278328156330134,
+      "iou": 0.06828066248746378,
+      "intersection": 20865,
+      "predicted": 23971,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "candidate": {
+      "dice": 0.1303008896132677,
+      "iou": 0.0696908336171594,
+      "intersection": 21304,
+      "predicted": 24526,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "gated": {
+      "dice": 0.1278328156330134,
+      "iou": 0.06828066248746378,
+      "intersection": 20865,
+      "predicted": 23971,
+      "foreground": 302471,
+      "pixels": 2250000
+    },
+    "accepted": false,
+    "js_before": 0.007070773281157017,
+    "js_after": 0.00723626185208559,
+    "area_change": 0.000301361083984375,
+    "baseline_two_forward_seconds": 0.019010999996680766,
+    "adapt_extra_seconds": 0.046949999989010394
+  }
+]

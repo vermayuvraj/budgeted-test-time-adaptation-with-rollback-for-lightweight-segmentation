@@ -1,0 +1,46 @@
+{
+  "clinic": {
+    "name": "425.png",
+    "recorded": {
+      "dice": 0.21870318869704616,
+      "iou": 0.12277751102287901,
+      "intersection": 511,
+      "predicted": 1947,
+      "foreground": 2726,
+      "pixels": 110592,
+      "name": "425.png"
+    },
+    "regenerated": {
+      "dice": 0.2187500001672196,
+      "iou": 0.12280701775467266,
+      "intersection": 511,
+      "predicted": 1946,
+      "foreground": 2726,
+      "pixels": 110592
+    },
+    "absolute_dice_difference": 4.6811470173435676e-05,
+    "note": "GPU inference is not bitwise deterministic; masks can differ at rounding-sensitive threshold pixels"
+  },
+  "mass": {
+    "name": "23729035_15.tiff",
+    "recorded": {
+      "dice": 0.6631834664101978,
+      "iou": 0.49609160999112734,
+      "intersection": 148508,
+      "predicted": 225291,
+      "foreground": 222573,
+      "pixels": 2250000,
+      "name": "23729035_15.tiff"
+    },
+    "regenerated": {
+      "dice": 0.6631699289495425,
+      "iou": 0.4960764597624293,
+      "intersection": 148499,
+      "predicted": 225273,
+      "foreground": 222573,
+      "pixels": 2250000
+    },
+    "absolute_dice_difference": 1.3537460655244082e-05,
+    "note": "GPU inference is not bitwise deterministic; masks can differ at rounding-sensitive threshold pixels"
+  }
+}

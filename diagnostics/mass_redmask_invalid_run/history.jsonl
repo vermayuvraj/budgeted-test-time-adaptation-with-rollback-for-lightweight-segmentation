@@ -1,0 +1,11 @@
+{"epoch": 1, "loss": 1.5681895732879638, "val_dice": 1.0, "val_iou": 1.0, "seconds": 7.7736104000068735, "best_epoch": 1}
+{"epoch": 2, "loss": 1.4719198874064854, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.643129700009013, "best_epoch": 1}
+{"epoch": 3, "loss": 1.4106660979134695, "val_dice": 0.5000000040945307, "val_iou": 0.5000000040945307, "seconds": 4.657304699998349, "best_epoch": 1}
+{"epoch": 4, "loss": 1.36116281577519, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.676998999988427, "best_epoch": 1}
+{"epoch": 5, "loss": 1.3139325618743896, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.701606799993897, "best_epoch": 1}
+{"epoch": 6, "loss": 1.2615536791937692, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.6633078000159, "best_epoch": 1}
+{"epoch": 7, "loss": 1.1896185874938965, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.679083199996967, "best_epoch": 1}
+{"epoch": 8, "loss": 1.113844326564244, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.675142199994298, "best_epoch": 1}
+{"epoch": 9, "loss": 1.030638555118016, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.684162499994272, "best_epoch": 1}
+{"epoch": 10, "loss": 0.37326904396925653, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.683349099999759, "best_epoch": 1}
+{"epoch": 11, "loss": 2.081798655646188e-06, "val_dice": 1.0, "val_iou": 1.0, "seconds": 4.698633399995742, "best_epoch": 1}

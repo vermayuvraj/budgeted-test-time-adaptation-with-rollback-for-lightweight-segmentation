@@ -1,0 +1,1518 @@
+{
+  "train": [
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22678915_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22678915_15.tif",
+      "image_sha256": "6e9e0ccc23268253ec3f0f287ac971b410e800a2f26c27b009f1c75109635633",
+      "mask_sha256": "2c120cb1d3985267b4b3dd95896c7593f6fb4f0722bedd4bcdba62c4d3713ba1",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22678930_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22678930_15.tif",
+      "image_sha256": "c94e703eece64471b87724acff196d80752f94bb01c383df14261ec76fc6d62e",
+      "mask_sha256": "73e4d0af2334b96f4ee261276924fa155a8ee9e68f6c3a86b6bbf607f31948f3",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22678945_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22678945_15.tif",
+      "image_sha256": "e7755bb7c7deae16aceb87c8521f767c08ecfcc12d6a6fa470412393551172e5",
+      "mask_sha256": "35552879595b5f6cccefdab944b381814cdc2066643c02e1bce3fb2c822c4d9a",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22678960_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22678960_15.tif",
+      "image_sha256": "9e765d439680d9347ce4a5824b815f16a09bfa9cb6be966145c820b4d51cd58d",
+      "mask_sha256": "850fa40b14b77fb1f5d47ae726f8c2cdb1cf207c25d818aeb9b599720c74f25d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22678975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22678975_15.tif",
+      "image_sha256": "5bda7cc68dcde7bee7a657e37c82f8ce7847f76f9caf1cf30024f330e90e393f",
+      "mask_sha256": "d66548ad8eba6cb1a83f891992e8868371831092046342cf154636a42c01ccdf",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22678990_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22678990_15.tif",
+      "image_sha256": "05d14054009ad14ec807b6d0b9b7742098fc0dc60c63548259f47a2a44f310e3",
+      "mask_sha256": "0074425f82598932e82ad974e7add6f53f9ffade7c452de7917f58e49fdb3c92",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22679005_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22679005_15.tif",
+      "image_sha256": "7a421a02ce774bd1dc817780f20aeca093df2fc599bc526c1ee60e33f89fe32b",
+      "mask_sha256": "5b3e15c94d9a7be1845873e354889c9216602951c341d892ca5bfbff6504da5c",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22679020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22679020_15.tif",
+      "image_sha256": "5830966dec7bb3f8bbe459ac20fb12d8bf19641ab48e0e2003bdf960d636cfa9",
+      "mask_sha256": "484c93fa614a586eac085acf51b622155e17dae81339209549d7452b4a5d383e",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22679035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22679035_15.tif",
+      "image_sha256": "5374f2d9e18f29bc37e1d91cd435880624e2d154c3c2aa6195805fa413fea851",
+      "mask_sha256": "b33314ed1f1b87990bdabf4d42ef9a00461048ece4d4e01e3e7a47f053b293a3",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22679050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22679050_15.tif",
+      "image_sha256": "78eebccdafef4c719f011cd078988dd68df8bc83b1deae99e2954030baf9e0e3",
+      "mask_sha256": "3343c6490746b48ccd82200aa3cba9c41f38bb338f3d32cf6f08eed7dbc833df",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22828915_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22828915_15.tif",
+      "image_sha256": "7292fd79df54b062bbc3fa8b55dd070f6ddb43d318ec0f45d0b91083cf096444",
+      "mask_sha256": "9cd0ca6901314796f5627a1010e430e001875a0880e96253f8e9c609ed0d03c8",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22828945_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22828945_15.tif",
+      "image_sha256": "4bd59209c7d76bb06d18ab74bee0882a6d6874dad2743a3c8f4f8bc7f580c9e0",
+      "mask_sha256": "b85ed102c8a28bbfde7c09fe48eca05742ff6f680176dc44fa8b0cd557f1cd06",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22828960_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22828960_15.tif",
+      "image_sha256": "c471844175ddc09b243e5da08d1c07c3f873704e094fb3dab3705c36feeb1a9f",
+      "mask_sha256": "eaac486df801cd691cb48bbb39b4aa63d9b3dbae826cbd7c2f753119ac829f88",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22828975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22828975_15.tif",
+      "image_sha256": "8da0fe1958f92276c3aa30101829650933e746498305f7244e0086b43550ba14",
+      "mask_sha256": "0530579d682c035b907ecbc154bee87a8275618e8122caa1169d29a7673d3b4a",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22829005_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22829005_15.tif",
+      "image_sha256": "8730ebc6515db8eff763e5744e5b6e7e2d096d5f0d7b6f35d46afdbddf21adb2",
+      "mask_sha256": "05d6506c79a1255fedd08ad5a4826cc64a77efaeb0292b6ec14fabc25864a2be",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22829020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22829020_15.tif",
+      "image_sha256": "07e3555acc3eecabfdf436d17c187ab3c4568c671faf4b847afd6ef304b019db",
+      "mask_sha256": "8603ac103831ab84652cce00f1bf52ecd2f54da0c5edd5d583888b530a5676f1",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22829035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22829035_15.tif",
+      "image_sha256": "ffe2c2d507d1d2689b7552d5faeca83993664d99ea18aff8fdbbd8d9ea931d38",
+      "mask_sha256": "6b0c7dcff14be9274117540760afd24f0f238aaa3c7c5cac4dffaf0a70e01087",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22978870_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22978870_15.tif",
+      "image_sha256": "4d9cfd63ef91ef05c74039f8e7b05f27feb7a7cc03d2feaabbb8e82998a411c4",
+      "mask_sha256": "5b2bfa390ac6267bb84d58f72332b3d224a1fbdc70970adacb45ad3df4e6eee4",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22978885_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22978885_15.tif",
+      "image_sha256": "b507b735284caed39ca8cde3b84ecf7087ec1f6021903a8ee1c71699d9684a08",
+      "mask_sha256": "0be544272b608e6f370c535a85a41c2b307481ba2cedbb822b4dc50088f180de",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22978900_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22978900_15.tif",
+      "image_sha256": "d61c39d52b8d3f10a5e09e503cd3f8580d3a66b0ab9fe3abd5b71369b3bbd309",
+      "mask_sha256": "dee8627bfa8bceb219cf54e191bf0ed855344f2c4b6029decbe1d861346c8bb5",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22978915_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22978915_15.tif",
+      "image_sha256": "fd56deb9b939e6fb253795b2381bb3352c5f73291827396893100b056d85dc60",
+      "mask_sha256": "487fde9bfeb243cc06c66619f7506310902e132e319b0c011d7a5799022d04c2",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22978930_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22978930_15.tif",
+      "image_sha256": "5323fcb289c85d0406d046b2d35efe6fbd6d3eda2710bdafb9a61925d89cedc8",
+      "mask_sha256": "023e5ebf5da632a4cf4b6783e03ba6918c60fa138df38ef6743abedf175ec992",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22978960_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22978960_15.tif",
+      "image_sha256": "a0c716070f9ccd28c7b3871f1fc3a6203a3816d738418907c674359ba1329a5f",
+      "mask_sha256": "7aa5d7a585cff448e44417d6c7cd4c6fa9e08920ed38934a67e1d9beca217548",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22978975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22978975_15.tif",
+      "image_sha256": "3e155f3924d73f43a39b9186ead6eca1e6023d2881d808c2b42ee5fc4393ae1c",
+      "mask_sha256": "e26584ca93553308357dbe6091e0d4758384bc66edeb29f946e30f7bbac42127",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22978990_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22978990_15.tif",
+      "image_sha256": "6cf112404f4f084f960237d28104aa8741abc0b41b743513a1ce776da2456e87",
+      "mask_sha256": "c6f21dbadaa612bc64e63225e4e08d0f2521b9720d2345834a6d8e588f7fb73e",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22979005_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22979005_15.tif",
+      "image_sha256": "fad4d8a555c21a0fd6e67681fd29545b1a1b68d46fbf7f1e4c399540ec1e9337",
+      "mask_sha256": "8f387d9632aa3b5705e10d6792f15e6907e30ac3a2a239c510e8c19ea50d3a4f",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22979020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22979020_15.tif",
+      "image_sha256": "98559fd3671fc0bf92621f820baf239ec966cde20a4ed47d9fe5c5ac2ba08d49",
+      "mask_sha256": "58aafa59c6be4db39e5404a63b104e0f8098784c0336a7996ed1c328cd02b887",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22979035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22979035_15.tif",
+      "image_sha256": "729fcfe5bec99df85f926caaad35074b4941b2552a20ca45ede78d36f0a99c21",
+      "mask_sha256": "a88950309d490fb7498e1d27619ad0e548296915e6d76a5d2173f5d0834b27c8",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22979050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22979050_15.tif",
+      "image_sha256": "d12ba2830b848550a4b3dbbb7bf090873811c13949e8980f4a74ee3fa0bb3b19",
+      "mask_sha256": "a6aeee6bf4bd17b2a9c77ce6ead5426da3595e7af34b75a95a89105b4927fb52",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\22979065_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\22979065_15.tif",
+      "image_sha256": "6fec09d6906d31ee0e12133caa7de7ccaa3e9af3bc21ecf09e3543b265c052e7",
+      "mask_sha256": "73fdb7f538ae4bdf08e0672c929a2e1188f2e5b35938118091cfb44dda665b68",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128870_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128870_15.tif",
+      "image_sha256": "9deb1471fb3550ffd313b24282484abd13dda645becb4109c6f21e00401c7e14",
+      "mask_sha256": "cba1c674b31ed9e93901542ac66193b5aba6af314db79fa61b44b6e39946f761",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128885_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128885_15.tif",
+      "image_sha256": "7097a078004c6838c85ef3de7d55276df781f487ab26080bfd5acb5bdd5be0c5",
+      "mask_sha256": "0d2928e72b07130a8fe825f55e1aefc50f5d4530fc56b2ab9d7679e3bfa2e112",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128900_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128900_15.tif",
+      "image_sha256": "7d75cc42ea6dff32d91a604900a719cd2be834d405aba9e1e247fa8a9125e74a",
+      "mask_sha256": "03925554ce23ab3664a3ea4a3f6a0d3fcca8d32b7ff5e2ecbfb169067540fbb3",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128915_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128915_15.tif",
+      "image_sha256": "84385c834af0039a00778f073d9f98f3ab44e881744db158bc380a5db5801274",
+      "mask_sha256": "f97e35b05770286d8e61a32c8a4355f46940811bfbd8ae4a1dfbabfc21e66fed",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128930_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128930_15.tif",
+      "image_sha256": "1dd6a83dd9989fdf57cc0d05306182a2e3b32409be01d6e968eb4c8c45c72c01",
+      "mask_sha256": "57dc1ce1efd4c2f947c56845e5e6bf22733a6b205949f890aa310a3ea578c93f",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128945_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128945_15.tif",
+      "image_sha256": "ddd522734b6a4d08b4f73b36eb4efeb61f7cbe50226a2d5e968a82d7243a929a",
+      "mask_sha256": "ed73b1c0d3ca3751516da89d9c6558b7719d4aeb4cbc5c2774156c2ac8d043c9",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128960_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128960_15.tif",
+      "image_sha256": "cd87a721241e08359ad36a21161891f5c7d2dae4443142b85568104f90233d68",
+      "mask_sha256": "f4af33e1503de3238c96f681642fb595975ffe40333d2b24a22c7c3cd6f3f728",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128975_15.tif",
+      "image_sha256": "a371894cb57e699c37563e1aa68b628efff29510466538672868b8ebf8fc0fdc",
+      "mask_sha256": "8173e0dc19c283cb462d182897025799d0c40b8919dc91ab171817686b5b58cd",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23128990_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23128990_15.tif",
+      "image_sha256": "05ca80e5b58cd574062133b50c25741c720ba9ca73c4a233c57af00b64b3987e",
+      "mask_sha256": "aba82cc2a53ad084b00051db6b759be0e940b9b06c6626825876726e10bb7bf1",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129005_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129005_15.tif",
+      "image_sha256": "4ea071d81a65d84a43b49cb23473b66703c7fb30d06952d38e7b8005572c8fea",
+      "mask_sha256": "fa3a110bd46435ce71ea349728d32bfed6d1fef0381d49dd428128646029df21",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129020_15.tif",
+      "image_sha256": "4bb43295fe72fda5b62baa1b3d2774eb0027a10551f51b2adf1216f6dcf20a1d",
+      "mask_sha256": "3d1c2ccf11b7ea67a9a1d90c302289b05030956945c038b9d7833fede7105e59",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129035_15.tif",
+      "image_sha256": "8fe6f5474f4252ba05dc25357af8515a7f610cd6e41e4d583ed390ae7653ac31",
+      "mask_sha256": "b3a4928bf38de09d37d1c0409a7aa8d0d42d08b15e69991f9f2746625eb8622f",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129050_15.tif",
+      "image_sha256": "9c51e02d39a48b7332bc8105ce71322487e0354af83e862d21ae9edb5bb5df13",
+      "mask_sha256": "6b70105ba55396a6c96ae9409a6fd1557310c40e56458ecf8525adaeeac142c8",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129065_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129065_15.tif",
+      "image_sha256": "25f1abae9048a9ede92e9a5751b5120f9493de8e8fb59811a79fb70038879d55",
+      "mask_sha256": "8d6494dd83af2149ef984b4a791b8e122568e1630fba80532fda06b66dcb85d1",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129125_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129125_15.tif",
+      "image_sha256": "621d64be5bb15baeb526a5446d0c40a87eaa3e206191bbbb7113fe1c4076eb54",
+      "mask_sha256": "f89ae6139a784c56a78b4ec54f204ac56d816db676097e2b13f20864fcb2d406",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129140_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129140_15.tif",
+      "image_sha256": "7db1e376d657f0f82f55fb8ba96942978d215b00a1dbb75ea8fa66889b2d32a6",
+      "mask_sha256": "58c43e6eca94dcf6619db3151e50a22abe9e109c2793c4eac503e6bb2c3057fd",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129155_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129155_15.tif",
+      "image_sha256": "def18569025cb6ee199499c27d869e3ebd124674117e873a79a39d7cd46138bd",
+      "mask_sha256": "13a815d6390508e075d963113b53126fb1381f76123e7fecce8cb8d8ee092976",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23129170_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23129170_15.tif",
+      "image_sha256": "f1999d896f2a0386a34d2951f5524a436ec52b7dedb06215f9910e4b41132b7b",
+      "mask_sha256": "ccbfbd1d088f9c4192c1946c1744afab09f4b352c419da011ae3dab2e57766af",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23278885_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23278885_15.tif",
+      "image_sha256": "32c530ba62dd406c07466b2cec0f987fb9e074fc842d8c954aa503324414710e",
+      "mask_sha256": "6c22ae9927421ce53d154e14c6bb67e83b580102fbfb6b83a6cfb8daca1fbfc8",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23278900_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23278900_15.tif",
+      "image_sha256": "e6375895ff7d316c4a2468a606006e55a97c7885e062ca1196d30c0cac63b5c6",
+      "mask_sha256": "58c43d8a1ef64282cc7b58cc52ea65769f1aaae8b22c5d7def92a2dd5ddb4f17",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23278915_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23278915_15.tif",
+      "image_sha256": "bdf55f5696da70b25a489bed831039ccd00808205280b69e16681aac72f9333a",
+      "mask_sha256": "198255619490b1363d92686f2baec88900414fa14634d391de0f11792502bfe3",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23278930_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23278930_15.tif",
+      "image_sha256": "205172a7140451faa26a4e45761a767b29d530075ff79d2c5569251385e63cac",
+      "mask_sha256": "c0f1c91a37311a3c1f475a268cab158377c5253478f0e0d070f8621ce5d7fb2d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23278945_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23278945_15.tif",
+      "image_sha256": "d3f82dc74953ce6b4142c790b97a94db8be7eb7dfab184a9866183a70bc12a91",
+      "mask_sha256": "26b7c88cbd6dae59486b8177bcc05a8a602d90714a8a06defba3bcfb5cf395a1",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23278960_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23278960_15.tif",
+      "image_sha256": "c7c8106230b7196f92ce5a099d4ff15b5c35f617b51131ca2da8e189703d2fff",
+      "mask_sha256": "319c8b2a318a6a2f92678eb73c1d9bf0f9b54e295dd13dd97638743987ce51a3",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23278975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23278975_15.tif",
+      "image_sha256": "abad7dfc8d514f049622682181417578102d8f6d82ddf0326898640c111adf0f",
+      "mask_sha256": "be8fd8869e00098f73bf995b34b4ed4a6f5abb41577ee26c4e0967c566e62168",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23278990_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23278990_15.tif",
+      "image_sha256": "3e2327d0ff93f0a2017af9a4e310b755bbd71794dfea3d83fe8888109e72b22a",
+      "mask_sha256": "81696cdebe65e0b54fee06e52dfec754ae11fd4d33d44555f5fb985ebd41584c",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279005_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279005_15.tif",
+      "image_sha256": "3bc8b468d0330e379153bcf51cd6292469a470d7c26d0a92d6ce06fedfff4e3d",
+      "mask_sha256": "ff18a8096680022d4cf5cee12cd515c762519661d730daec18712696a1c9fb6d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279020_15.tif",
+      "image_sha256": "7835c57c5afa1d7791b6a1cde9b921ec927fbfad55e86707ba5ea539e65a853e",
+      "mask_sha256": "9015b4abfdd964d8b79ad6c5475eeec6804d49247fae377f3536a1303cf38201",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279035_15.tif",
+      "image_sha256": "726287aa3ef787cc582e4328a2cc83d65a1d44b6562cc48b004419cc4416e2de",
+      "mask_sha256": "2e0c1f7f5208ced4e9f56cc0f6be82538904b5635b5a8c3879ea7576dafd3379",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279050_15.tif",
+      "image_sha256": "6ee5ad74003e381979dd0609a7c89bfcbbe856536c1add228c9ffc68727f2f09",
+      "mask_sha256": "67dcb75c937d59608a92ff81ef1ac303492bfd8c0a72e63ac69c0907e6471c32",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279080_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279080_15.tif",
+      "image_sha256": "89d2074c6a093ce42668e76473e572eeeed263319168d92c2f5b20e8ee63299c",
+      "mask_sha256": "7596e2ee12738c4db4da37e584ed1436527417ccf2fb2d1ff67e7a23880349ea",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279095_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279095_15.tif",
+      "image_sha256": "4918ab79aaa26fec82aae784df662dfb53deebdff2a7a8d4505ddd792687f181",
+      "mask_sha256": "f7e8d430fb3430fc94bc25ac6164324a427b3a1742b1381e817ac214154e281a",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279140_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279140_15.tif",
+      "image_sha256": "9d3daefdf40b94317898ace7ec0e70c4ce6f14e04075812f74be81680167dfe6",
+      "mask_sha256": "d4d9bfe55e4f81ebfd0526de1b49123cf83733c274fe7537d9e2d07e8c012d37",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279155_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279155_15.tif",
+      "image_sha256": "111fdfbf21a5a84d04efb357688e003071830825a8ddb2b0119abdc2c77c2c15",
+      "mask_sha256": "06d5b8de3941826970ef7c85734f2c898bb8979ad8ed05531a76e2866658fa1f",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23279170_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23279170_15.tif",
+      "image_sha256": "aaaf18164fa1c13d628e15c64ec21c64d581f5f5b0380b86142cc9f1a3765dcd",
+      "mask_sha256": "138da3112e69fb940930d03abccbcc4a805997332ccefe82ae4355337d68c1da",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23428900_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23428900_15.tif",
+      "image_sha256": "b168ba0d1e305d0be803607903d06bca6dd1bee74d1853fa72e0cf2f8f2dc159",
+      "mask_sha256": "b2ef1f9151613f60489a668514f4263a01790719748b1e6f202e77b0dc5ee293",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23428915_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23428915_15.tif",
+      "image_sha256": "95d80bb28c163bbd46349ae6142820bc4b5ac60b0e5976f475359e958ed1516c",
+      "mask_sha256": "0dde3f1da745723a83ccc71dff9e75185d594fda1068030892610e3f9429f9e1",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23428930_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23428930_15.tif",
+      "image_sha256": "1047e018bc572dca58da854b0201cfed1881897210bcad2c463547ec187e1393",
+      "mask_sha256": "1b6d27b21a6255416714f20572621a2022e9ea6a3796b40ace32cfaa712f5523",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23428945_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23428945_15.tif",
+      "image_sha256": "956ddf586930ab5db6aafab0bba6ca43cbb0c7b4a4adc292cb581f1ced089dbd",
+      "mask_sha256": "c2a38a70e8112e86a44aca48be089c83425c3c7b8db05c3b0c618bb96bcae688",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23428960_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23428960_15.tif",
+      "image_sha256": "0e2093be78ffa19680f96b6231361a6733dcd5ea42f176fdb5641c26bdd24bde",
+      "mask_sha256": "ce82b2979df57713102ed8dbadd2b8d7916ba6a344a4f6f5129b00d3c81a8159",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23428975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23428975_15.tif",
+      "image_sha256": "85bd731ca52eff847777f8a4e98d6daa7b3beff2a54ef877ef281a9d6097b174",
+      "mask_sha256": "c0fc5d7c5ae547de338db8c3364b5c3c9ee7ac4d68dabddf6660a25f593cb308",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23428990_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23428990_15.tif",
+      "image_sha256": "9f23c2c629f38f66fb61949014f0de1efdf0b9b51428d1276b6645979d2de86f",
+      "mask_sha256": "cdc5c8481d62862b5c5f48d66c2c274c6c6a61f68f52e2888f7e9b340382b0f3",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23429005_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23429005_15.tif",
+      "image_sha256": "1ad30f4dca7928cda1e3b97445c274d342126b287501341689016eb2e1e2a865",
+      "mask_sha256": "40c0a963308753c74e89f5e372c538a1d2c7434cec811186e784014061f9d83a",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23429035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23429035_15.tif",
+      "image_sha256": "074fa86b3e5e2c698d05b934cc647e10bfb0d514b4e76f93752ea2ac757517c4",
+      "mask_sha256": "a80172804263c5768b0894a6e6ab8a24a2c2ec1ddc647098d4c97e5727560344",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23429050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23429050_15.tif",
+      "image_sha256": "20dfaccea3f8ea5c50d9ce717d312c13d999f56a01737baa22e54fdf2389827d",
+      "mask_sha256": "1cd67c01b3514d7027ae5451a4884991b0c300460c4e64d92376ea8e199d909b",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23429065_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23429065_15.tif",
+      "image_sha256": "dfc728ce500bbe9f180beb464ff822ad35fb9768fedfefb44248668cf5eed78b",
+      "mask_sha256": "b262dac3777ab781363320cbee4675cd444dfd0c70572858a7eb9b49920b8b2d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23429095_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23429095_15.tif",
+      "image_sha256": "396048121bcec50239df388a004e84cfdc55b5427fb1ca9141590537e04c8520",
+      "mask_sha256": "d3d68afea311e15b9e4458f66cabaf9054b412eff159f11de13f217689bd822f",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23429125_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23429125_15.tif",
+      "image_sha256": "780ff12a26e3b2d6dd7573d2eb62c6b8a5e8daa25c8e6858eef3261334121100",
+      "mask_sha256": "f30e05aeeffbd2da7f3703ee39d105eace4c0d5d43dd7c66971ab107a8ad7302",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23429140_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23429140_15.tif",
+      "image_sha256": "fd64fe2c0579e1a31f1d3feeb608d14db2a18a5c8b4820ce09df6e9d2ddb2036",
+      "mask_sha256": "f44c46934abab30b560746b27bfe00c64037641bcc7263fe7b5b0cc1318b1355",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23429170_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23429170_15.tif",
+      "image_sha256": "73a9fd9da712b8d41ac4e49957e37d6feb7573016f357bef8486dca0580b7f72",
+      "mask_sha256": "0d81a5ad8dce9599ab725911ce07aa0793b2b3d3d3dc3ec02d6af967a63a56d3",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23578915_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23578915_15.tif",
+      "image_sha256": "cbe2876574542ce86a2429c721de37f17205ec04388482b79e04aab749f7e560",
+      "mask_sha256": "13a90ad66206d714ab7d3fa2da3908ab16ff20c5cec6e117975c41a44b63d862",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23578930_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23578930_15.tif",
+      "image_sha256": "d3a5401e8518346a4d83a1e9fc5742124987fe379b7b1ad16a2dfed1728d07f9",
+      "mask_sha256": "e9cf02d09d529d6f67e63ff584c52398686a940694bf5d3a5c844d1055772084",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23578945_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23578945_15.tif",
+      "image_sha256": "d20321c989a2143ae89afb332bf3d8a5a999cee9e5adf3d6332664b3fb9dca49",
+      "mask_sha256": "e926e0017a203b37d80aca59c53eccb111ae00246f291082ad378ec24b951b7a",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23578975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23578975_15.tif",
+      "image_sha256": "256568ae03dea836cb783fd9aef87b79f0ce9fe4c3aaef4f486cee1887603096",
+      "mask_sha256": "b2106a8ccf248dc63f37ec29e683396848d25a611bd8815f6c84a812b2bd4c75",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23578990_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23578990_15.tif",
+      "image_sha256": "bdbb9efb2cdce192ab1e7cbbdf6b36e647f86d5f750977a7d5bff2ae930d3934",
+      "mask_sha256": "221d665213525efbdfec5fe7e744fb412efaab670e583fba8a9d9e667660e742",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23579020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23579020_15.tif",
+      "image_sha256": "7512918fb0937ae1c92d3bee82473b0a1c59b1f4cb7cb22c766c2b002a45d715",
+      "mask_sha256": "458a3cfff1e930acf768870694997238ab5a47cea55d55ff9e200f3d98d5deac",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23579035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23579035_15.tif",
+      "image_sha256": "06d0b85ac61fec4fa7a77990c5dde40ec9ec60ab265f380db43bf2889f4d1913",
+      "mask_sha256": "d8742532913e71d55f855b765a7d310b052547e75bd6ef0a6e568ac4f8b6f8fb",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23579065_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23579065_15.tif",
+      "image_sha256": "540b4f5174f09632908e84ee18939202a0be5157ab7cb3ded14080bd94cab9bf",
+      "mask_sha256": "4e46c42cacebdb2abd9f0ecfa09ba4677ae997e70f0b68ab11c36a5c8bf8987d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23579080_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23579080_15.tif",
+      "image_sha256": "ee03f1bbe10d41db8b6315ae8ce5510220ccfe3ac64307b16889d95428179f4a",
+      "mask_sha256": "449874cae373c2f9603e8fd4cd264acc9d9cb1f283b00e9b1145a1a1e7c1a7df",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23579095_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23579095_15.tif",
+      "image_sha256": "578c47dafaa9915c1367260d367fd956ed3aade7ea2f038efb73d7358d10c68c",
+      "mask_sha256": "06277fc955b0b146dee8c92715403fd99263a7b7ba693f941e8a9d45676610d0",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23579110_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23579110_15.tif",
+      "image_sha256": "75311f9ef31ecb0e93ba0f4922f80a405dc5fef77d9494e206994a4083d237e5",
+      "mask_sha256": "5ea2257291d2323b95058470627a75ecfd95ea7c2600bc100b52ee4be766cf2c",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23579125_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23579125_15.tif",
+      "image_sha256": "674ffe1d12618d9bb850cb761dfd1eb9a8751bc9a1460225776298aa1891f0e5",
+      "mask_sha256": "d553be78472a8a68920140c3191e6687f48364cd124ea6f0e1d3a7f2fd0d6553",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23579140_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23579140_15.tif",
+      "image_sha256": "0e5ec07b8841d06aef2fc5a3174b358682a2c24d60f9649c51a54f6f267cc03c",
+      "mask_sha256": "3a611a61900a1def7e027241e07d7095022185b7da6e8ac59705547785c7566b",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23728840_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23728840_15.tif",
+      "image_sha256": "d60d1d5b897e71835a501c5c5c118b0fed46080e600b754e2ffa816a0a4d54ec",
+      "mask_sha256": "912224f10b544a94e6d0c6e7c80cbe0e51d0c1c2b39bc5ccc9d99fbc51205e1b",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23728945_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23728945_15.tif",
+      "image_sha256": "a8a92ea7ea21a012ebe662d7da1b56094c70d30331ce85adfaf6dbaf12fe3959",
+      "mask_sha256": "a9c48bf378cc24bcde6a524fd302f085eade7c27d9897b2dfa0ff9ff314abbbd",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23728960_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23728960_15.tif",
+      "image_sha256": "2ad06402d27bd0ec11625bb10bfb4dda1b1953cbbefc35a76185512be8746e1b",
+      "mask_sha256": "8b09a38b2c75f7e54f8b5ea13dd7f2767255af285e4976c68ebb35affcff0d61",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23728975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23728975_15.tif",
+      "image_sha256": "a3559e02a05020f12e35b1676ed75cc7f94a1afad46fb1cc272dda8ac10381bc",
+      "mask_sha256": "dd45f1383a4e9ae2f3082a1d0031979525ea122d34c685dc9132d53df652c229",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23728990_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23728990_15.tif",
+      "image_sha256": "17c57e84f0ae61c434c91e663b3f5e905610049e92c44b2060abd6e5cd6af070",
+      "mask_sha256": "950a32d8feece49d6b6fecca1d96d40b19704b0439bdc21f32fae8cce44a49fc",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23729005_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23729005_15.tif",
+      "image_sha256": "812f2ef460a565c5f7b854d6ee456cb7148ed2f4a0a4abcf1bc24a702f163171",
+      "mask_sha256": "49e82cae15a4f6780fca821e12d7979c4cec28b7886a36ab88a3aa7b2340d24d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23729020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23729020_15.tif",
+      "image_sha256": "c4626eb81a7081b6722f678bd552608cb3870e34fc5c57adbdd3018fc462f519",
+      "mask_sha256": "3e031e03f6ce0af5606418d2d0b928c35b486d2b9d73faa6a59ff9c91e59a7dd",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23729050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23729050_15.tif",
+      "image_sha256": "65b32ee998e94c22efb3e3dad95798a26cc1118d5ec1f79f6cdbbf3c1b33cb7a",
+      "mask_sha256": "aeca96f80845d07c840bca04b46569448e73ced2f4e957fa7377e7eb4740de59",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23729065_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23729065_15.tif",
+      "image_sha256": "23f03337f084b1082280feed355d80f0856949cb9b5911347600cd10c71ae21d",
+      "mask_sha256": "89431a23eed8c54ba9c906d9a1a4759e874f911b2085c99864c6d3f9e0a12c56",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23729080_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23729080_15.tif",
+      "image_sha256": "8fab88f12ca8e186256c9e1a804f94bd6bd7314d216341834424a09c4913f644",
+      "mask_sha256": "b8b19aaa8f1f5400c8f5c9abfc21c59dd9efd0511353aca0fa726bcc1eedd6cf",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23729095_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23729095_15.tif",
+      "image_sha256": "6b2048ae75a086d9638e3dd8ff2d5bd111aa56d0d61ab0bb485b47758f723b76",
+      "mask_sha256": "b8a25b72264eaaf15fd26b240cf523b54da820199f5e91d581382a308611d5b8",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23729110_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23729110_15.tif",
+      "image_sha256": "771aec0e773b91140aafc95923d57ce0f1ed5a0b13ac3489d7ea8c69fe209606",
+      "mask_sha256": "8e1c97e91cd9be02c6c3acdab7ebf8621d49bc7ecfa76d9364a21a23700aa164",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23878915_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23878915_15.tif",
+      "image_sha256": "503a850e7ed40a2d4d3a411f005b250218f7036758466ea1a57f16a66b2f0bfc",
+      "mask_sha256": "952569e8a6bdec92fc5abf9bc2e85150ec22a57f6cd45a7fa8e42395eae955b9",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23878930_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23878930_15.tif",
+      "image_sha256": "b56d96f1d31d34daa9578202c3abc68d71366fa6ce3112350d184f3c91edd322",
+      "mask_sha256": "e6eadbd0486d8538adcb337e3fea262597ab7ad76a025f9b25e8487c47ad051e",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23878945_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23878945_15.tif",
+      "image_sha256": "755c14a0afdd572d3625e224982e20b2eb6b51088c12b91dc9120f3d9f2e7c03",
+      "mask_sha256": "8fc1eabdc9b010e1b0eb598ab37b6a1126530e514dd7bd64cc021608aaa9d31d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23878975_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23878975_15.tif",
+      "image_sha256": "303f0a0aa6c8bc265c38cc02feed2807925c58480fe00e9c0d4f10be9bb1e1da",
+      "mask_sha256": "2998a4e3926098081505a6a96b4b40d850aa79d57b95c76f51f91ec211d722e8",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23878990_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23878990_15.tif",
+      "image_sha256": "01ead02bbd9fd5b4f2b3ab5905f3fdaa356e864d3c542f28576036c3ae8e8a6c",
+      "mask_sha256": "6dd0f0ffea8b4ccf54fd45f5ec986ece02f3fb2a5bdecc0d7efad1c77fbda20e",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23879020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23879020_15.tif",
+      "image_sha256": "87e0ed03e84f284996cde8e0cf3e1829ff0fba5d5758700384ec68cb335c3117",
+      "mask_sha256": "266075a0654d294c7d96fae58f093fb66cc8bfcf63433c0dfa5a80f9f87317ca",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23879035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23879035_15.tif",
+      "image_sha256": "3f8be45cee813399802b788d76ea6f0aff2b3d55b92016374418977068f1e32b",
+      "mask_sha256": "2de3dc7510c5d76a8c0ccc7a7ae0cecb17a7478ab221164856312d157e401070",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23879050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23879050_15.tif",
+      "image_sha256": "24c78b1e8812bbbc0ff0ee1cd9d2d60c660a281f7d85bfbca46297a57b4872a0",
+      "mask_sha256": "5a7f7af0ef963f8b2ccedc6a058aa86b8e8841d06a5f581fdd40afc7965cd9b3",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23879065_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23879065_15.tif",
+      "image_sha256": "8ff9b5230a4cfa08f0aefcfa7ab9e298c573da936f76848bc77268d2d94e1a1f",
+      "mask_sha256": "3173c7bb623fce7fe0c0322cf7054b4c059df0a20f49b6ec81f119086ed68369",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23879095_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23879095_15.tif",
+      "image_sha256": "f116c0098056e19eaf3e5fee56ecc802bc31eacc5b826bf8c6c8e15b79ec00df",
+      "mask_sha256": "baec757a9f11f6d3227dc3ac1ea69b83e36dd01dc1788d0f215ea117c3ea6413",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\23879110_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\23879110_15.tif",
+      "image_sha256": "f4ab74e0d747c3fa43714e692e49e32006a78365f4d77df33619b5ee3f1fac33",
+      "mask_sha256": "0d6e8d0694e220e6d856d1544eeeca22ad30494585f8cf6ac6d3454d54a931bd",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24029035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24029035_15.tif",
+      "image_sha256": "bf4bcce66448b7f0c2e5fda73898adcb826163e65df96751c434154d01e1090c",
+      "mask_sha256": "7ffa77b78fcbe5ce97374341b3c4d5b6f5d346fa0c812740ac0d6c018e01fd13",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24029050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24029050_15.tif",
+      "image_sha256": "b8efb34fb8c38e967f261bbedb63d9e6d7f1ec13d0dd0bc9fe90b642318e4cc2",
+      "mask_sha256": "6a9154d3e471141de5f2f18289ca1fbe21ddeb34d0e3d6e24bea1758d53335c9",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24029065_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24029065_15.tif",
+      "image_sha256": "d2e0b86c9f1a0b8580580adf90b99fe22c5d26f63d8e0e8fce9af6a533fd6f03",
+      "mask_sha256": "35108cc02a9e9d5b492eb74e79d828ca8e20796563c189df2a975f45ceda8c08",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24029080_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24029080_15.tif",
+      "image_sha256": "5921c6fcd13798f312bf4d69196ab73ff7e3b33edac8ba8b8194cae3e0b336b7",
+      "mask_sha256": "3c1a3ebd6b44309882b81c82ab105d00c25a76125418ce35df4ead59ad2ae6b8",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24029110_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24029110_15.tif",
+      "image_sha256": "aad9ee35712324c3c7654fdf9d70608c6e09a5688e8c196e964ed56db82a6082",
+      "mask_sha256": "57ed1403712c7698e04ce5a854e1e20181e54fd78dc003027af982ca9c7a5c44",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24179020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24179020_15.tif",
+      "image_sha256": "201b8fb4457702b1ebbc36a9ad88eff5390b544156249a8a1f7e9eda523b40eb",
+      "mask_sha256": "7b8ce7d6105e17b0ece14f92d65e8dd8696cbe9a534ea4336c6cedabf11bf7b2",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24179035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24179035_15.tif",
+      "image_sha256": "400c6e947c159f9aaa939f89daa7bb401a9a3e49f4cdc3840966647cd3b63c7a",
+      "mask_sha256": "de3e1ae10f306ccaa891c15649e1573079cc47572bc21ab19d0a4112e6c7e603",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24179050_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24179050_15.tif",
+      "image_sha256": "e4a9e7da7b76eea2237d46ce50e15391fa9ba6590407ce84611b62a83d886a63",
+      "mask_sha256": "ce0e287052bec5e58b9087fb7841d9b88f395e74ec56706f0e24b09d07672f78",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24179080_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24179080_15.tif",
+      "image_sha256": "f78a7f6600a18de6766fc4c3b99156758e1de7877b607298bdce7e5bd0890779",
+      "mask_sha256": "826a9e578ac05f4b3111824712b5e152d4d0de5f9078461a939ec8936518a76f",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24328840_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24328840_15.tif",
+      "image_sha256": "93304a952c8f53256d5613c837c4fbc1746669a7b8a5c0a7788f5c659426cb71",
+      "mask_sha256": "5c63c352f97cde7f0bbe813e37adf26a225a3e7985493e57ddb1e23a2e67336c",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24328855_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24328855_15.tif",
+      "image_sha256": "91fdbb9cdaea3761181a644e261ae286548fe6cdc4bb01e45ec9acf4c0645997",
+      "mask_sha256": "55530893f9f94cae61a4e08c15cccbb0227db31617db1d77360bb8ca9e74f593",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24328870_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24328870_15.tif",
+      "image_sha256": "25c6cf73b7514b07186c2721681b40675aa15055bb2acc1013947fcdefa9c1dd",
+      "mask_sha256": "743ae3e2317497134315d14beac87f8511de9d41b8218c0b3dba3130e227cb20",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24329020_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24329020_15.tif",
+      "image_sha256": "9ea48cf16a8f0b4a6690789f7d9ee68322d59baca2df99b7afd389e610339cbb",
+      "mask_sha256": "509722dfba46360d3cc82694c699d16f7a53c47c457729e2294f4a281bf0775b",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24329035_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24329035_15.tif",
+      "image_sha256": "b4e07cc443d03654adaeda5fd87fa37e990269817ce3883789457f4d3b919d3f",
+      "mask_sha256": "07d3936fca199d12b77e59c2976a84ed2e3b35fa79e0c617ba3ce6540a0e966d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24329095_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24329095_15.tif",
+      "image_sha256": "e635267d971703dc69cda5b372de7b6d14f7d3a0ead29d44bd8659ec1982dfcb",
+      "mask_sha256": "05f26c96ec4f433af53038607feaf66b3647959e313cb92981e1be6ed8f3503d",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24478840_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24478840_15.tif",
+      "image_sha256": "070d34f67fa6d6198404e72d52dda137a54c2bd0035dfede9a6ffce15e147369",
+      "mask_sha256": "cf907fdc974eb9e04172799d31331127518af6a34a96a64b8d1582cd23fe362a",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24478855_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24478855_15.tif",
+      "image_sha256": "56d519764ce1ebf7796856f20fbabc7bfcc9079e9f2c553b053174832fcf3219",
+      "mask_sha256": "6d2732656b2c055e5626f691bb44b84ff1cd0fa3b9ac7928337d4a717b657444",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24478870_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24478870_15.tif",
+      "image_sha256": "26bc3a7327d83dbbf1a6b47f1381f2d73d6b96bd90a79a96a5b242ed5a7e3bad",
+      "mask_sha256": "432ed8637ccf6d96ec54ea01db2ed499796e13339bf51ba3838f19953da02b36",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24478885_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24478885_15.tif",
+      "image_sha256": "748ada52e8ff66004f008684d0e84ba8546ff99a9c1f1e945527338e6ed351f7",
+      "mask_sha256": "039ced410d9f244e1d92928ffc2c15715c60dc8baae88220e7f5fcb8ab5c4ecc",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24478900_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24478900_15.tif",
+      "image_sha256": "9f82991f4b2b17711ce39c727490d32e1875f59421478aa450a36e605333c78e",
+      "mask_sha256": "bf69151f491093c872f31f2add39745d31358cf7a0cad38053ad034696d2b073",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\train\\sat\\24479005_15.tiff",
+      "mask": "data\\Massachusetts\\train\\map\\24479005_15.tif",
+      "image_sha256": "4230a10be590e9b13adb24c3cca4f39d54198527d48ec009f36c9af8c0a7b5e4",
+      "mask_sha256": "b7fb1bb1dde76ebb965b300ec95356391bd9c1876593345fb66e30f2e07e922b",
+      "native_size": [
+        1500,
+        1500
+      ]
+    }
+  ],
+  "val": [
+    {
+      "image": "data\\Massachusetts\\valid\\sat\\22978945_15.tiff",
+      "mask": "data\\Massachusetts\\valid\\map\\22978945_15.tif",
+      "image_sha256": "06f0c7e74e04bc1aa20bfdc7c4fd6286581f6a91da309d2999cad0ed4107fe86",
+      "mask_sha256": "1d3f5e03fa608b2646ec1597c32dc65a40d1869b953c2edfba430cde56ca37cd",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\valid\\sat\\23429155_15.tiff",
+      "mask": "data\\Massachusetts\\valid\\map\\23429155_15.tif",
+      "image_sha256": "62c1c25e1faf9d01143cf980af0d5de374609f1e3b20cd69993bef04e8931a31",
+      "mask_sha256": "dd44c694d7bcb18f9fd1cb33156f135ad6bbb665179847b0b85df5ea5e03b4fa",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\valid\\sat\\23579050_15.tiff",
+      "mask": "data\\Massachusetts\\valid\\map\\23579050_15.tif",
+      "image_sha256": "8a612171b8dc9a696457ca0b5cdc762cc5d64520bc692c84b5657f55d62ea1d8",
+      "mask_sha256": "05b123f8eb32473d933fcdfcfc370c52fbcf223099eca81b0cccd29d8ffdc28b",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\valid\\sat\\23728930_15.tiff",
+      "mask": "data\\Massachusetts\\valid\\map\\23728930_15.tif",
+      "image_sha256": "8c3561b3c2a1cdb12edefd3b14dd77933be6510f7dd755c8c750b7979f0e6ba6",
+      "mask_sha256": "d4862c16f8af597cb0b57c68fbbf2fd0dbf065df102496c0f61fcff40bc575be",
+      "native_size": [
+        1500,
+        1500
+      ]
+    }
+  ],
+  "test": [
+    {
+      "image": "data\\Massachusetts\\test\\sat\\22828930_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\22828930_15.tif",
+      "image_sha256": "b83e9c268153f491ce26734bb6f9ccd086e9ed054872c6e13dadf2412782b653",
+      "mask_sha256": "0bd1622b226baa0be3505a7f5cec291412eec1c5802a2823232d3dcddf731459",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\22828990_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\22828990_15.tif",
+      "image_sha256": "172feac49c1e8f2e51093e169ff96a39505e66b7208ea2842ebeae5454216542",
+      "mask_sha256": "684d0de6e7f0166caca1d03fd56b6f63229e60f0c961a4dc1cf509d5a5bff4cc",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\22829050_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\22829050_15.tif",
+      "image_sha256": "de167cdbec22ccfb18d9fe7e0516b459ffda8a3964e39293098588ccca8f9c5b",
+      "mask_sha256": "509612cbae69be82986a4261105e43993f5e2fcc8dc113bbee530e353ce7e72b",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\23429020_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\23429020_15.tif",
+      "image_sha256": "3333ff85f67bb5908118b31d23e97c909d934acf8a684a1cb65ef3f25bf9b2de",
+      "mask_sha256": "99482b1f2de849efc891f3d480c0600d02df3e331f27873a0471db65ca8efc2c",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\23429080_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\23429080_15.tif",
+      "image_sha256": "fbcf7fc3bc3dd8c55259d590cd5af75bdaf564fa626c7a1e374d551746d82c93",
+      "mask_sha256": "c49aeede0d30c5c7622970e3090c2717af13f86eb27a946ae64958eba9b51f29",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\23578960_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\23578960_15.tif",
+      "image_sha256": "4453809642c7d78873a1290486bd7bcd9d60d5669adaa83e48ad28c4903d44be",
+      "mask_sha256": "0d2e101620889fa7948a1ed59acbcf10dc478ebb5c6f9eaf73a7e6f925e8db70",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\23579005_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\23579005_15.tif",
+      "image_sha256": "570cfafec77a7fdcf75409a7db7a97d25bd7be37d53e1c747e4953e4ad498e49",
+      "mask_sha256": "2b9fd9cd6ce921ffd3e70b2a0ab39ee50e8a818bd21767205dac9b7633fec62e",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\23729035_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\23729035_15.tif",
+      "image_sha256": "54450f4d13457f0143a6dd4ac8ebdf56950838dc2307688c31e3846f13df6591",
+      "mask_sha256": "9f252a94787782d4a5a388acefec0a76af0b1ddfdb9b6aa0d5509501db098716",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\23879080_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\23879080_15.tif",
+      "image_sha256": "240693a448af809bbdc873aeb1f233d3b9c67e209003bc0f801b347130adde12",
+      "mask_sha256": "4cedbe291acf838142988edf4f4535ecbea5d0704602bd7436357363c5157d7c",
+      "native_size": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "image": "data\\Massachusetts\\test\\sat\\24179065_15.tiff",
+      "mask": "data\\Massachusetts\\test\\map\\24179065_15.tif",
+      "image_sha256": "2ced6282c57a2825c162bff84d1d38a9312d4295eb9b0136c85dac16fbef75a5",
+      "mask_sha256": "a2cc680f64dbd3279ba6eb07f882967d2036ffe70025e5ac9d63b01567848e34",
+      "native_size": [
+        1500,
+        1500
+      ]
+    }
+  ]
+}

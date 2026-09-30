@@ -1,0 +1,6 @@
+{
+  "clinic_executed_wrapper_sha256": "3aedd21ce67a1a614071b1462b59be87aaf4519245338771f588818d78d70d77",
+  "corrected_wrapper_sha256": "fd0b90557c4473f703353c4ac4b3cbcf8d2e67ba0915114dbf374f16efde5ec1",
+  "recorded_after_bug_fix": true,
+  "change": "Only Massachusetts mask decoding and nonempty-mask assertion changed; ClinicDB decoding unchanged"
+}

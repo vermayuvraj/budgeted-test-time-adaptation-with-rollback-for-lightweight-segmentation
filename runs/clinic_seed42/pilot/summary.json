@@ -1,0 +1,114 @@
+{
+  "protocol": {
+    "seed": 20260930,
+    "conditions": [
+      "clean",
+      "brightness_0.65",
+      "gamma_1.8",
+      "gaussian_noise_0.08",
+      "gaussian_blur_1.5"
+    ],
+    "lr": 0.001,
+    "steps": 1,
+    "accept_js_improvement": 1e-06,
+    "max_area_change": 0.05,
+    "harm_dice_threshold": 0.01,
+    "episodic_reset": true,
+    "update": "BatchNorm affine only; source running statistics frozen",
+    "labels": "used only for final scoring, never for updates or gating",
+    "status": "fixed before seeing held-out stress-test results"
+  },
+  "trainable_parameters": 10872,
+  "conditions": [
+    {
+      "condition": "clean",
+      "n": 62,
+      "baseline_dice": 0.8958794542847103,
+      "candidate_dice": 0.8955741249756223,
+      "gated_dice": 0.8957096765974237,
+      "accepted": 19,
+      "harmful_accepted": 1,
+      "harmful_accepted_any": 5,
+      "harmful_candidates": 2,
+      "mean_extra_seconds": 0.05514497096808026,
+      "delta_ci": {
+        "mean": -0.00016977768728639804,
+        "low": -0.0005311269050566545,
+        "high": 3.587933619713961e-05,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    },
+    {
+      "condition": "brightness_0.65",
+      "n": 62,
+      "baseline_dice": 0.8029765048185186,
+      "candidate_dice": 0.8063144610665439,
+      "gated_dice": 0.803244297895614,
+      "accepted": 27,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 5,
+      "harmful_candidates": 3,
+      "mean_extra_seconds": 0.04490463064529092,
+      "delta_ci": {
+        "mean": 0.0002677930770954471,
+        "low": -6.134787648071849e-06,
+        "high": 0.0006531414302950237,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    },
+    {
+      "condition": "gamma_1.8",
+      "n": 62,
+      "baseline_dice": 0.6378143450953758,
+      "candidate_dice": 0.640292126739818,
+      "gated_dice": 0.6380858305748761,
+      "accepted": 17,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 7,
+      "harmful_candidates": 3,
+      "mean_extra_seconds": 0.044122095161583275,
+      "delta_ci": {
+        "mean": 0.0002714854795002353,
+        "low": -0.00040847630591490957,
+        "high": 0.0012657933515906434,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    },
+    {
+      "condition": "gaussian_noise_0.08",
+      "n": 62,
+      "baseline_dice": 0.24111875998289617,
+      "candidate_dice": 0.2407656259310019,
+      "gated_dice": 0.24099995131311602,
+      "accepted": 26,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 15,
+      "harmful_candidates": 0,
+      "mean_extra_seconds": 0.04396420161027627,
+      "delta_ci": {
+        "mean": -0.00011880866978014022,
+        "low": -0.00020685808659346054,
+        "high": -4.361798914404571e-05,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    },
+    {
+      "condition": "gaussian_blur_1.5",
+      "n": 62,
+      "baseline_dice": 0.8888543067343914,
+      "candidate_dice": 0.8889971596065346,
+      "gated_dice": 0.8888932336942217,
+      "accepted": 21,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 3,
+      "harmful_candidates": 0,
+      "mean_extra_seconds": 0.04454402741882199,
+      "delta_ci": {
+        "mean": 3.8926959830136574e-05,
+        "low": 3.3473041853011913e-06,
+        "high": 8.33288931030505e-05,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    }
+  ]
+}

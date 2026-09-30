@@ -1,0 +1,114 @@
+{
+  "protocol": {
+    "seed": 20260930,
+    "conditions": [
+      "clean",
+      "brightness_0.65",
+      "gamma_1.8",
+      "gaussian_noise_0.08",
+      "gaussian_blur_1.5"
+    ],
+    "lr": 0.001,
+    "steps": 1,
+    "accept_js_improvement": 1e-06,
+    "max_area_change": 0.05,
+    "harm_dice_threshold": 0.01,
+    "episodic_reset": true,
+    "update": "BatchNorm affine only; source running statistics frozen",
+    "labels": "used only for final scoring, never for updates or gating",
+    "status": "fixed before seeing held-out stress-test results"
+  },
+  "trainable_parameters": 10872,
+  "conditions": [
+    {
+      "condition": "clean",
+      "n": 10,
+      "baseline_dice": 0.7195258542048583,
+      "candidate_dice": 0.7195187594010745,
+      "gated_dice": 0.7195258542048583,
+      "accepted": 0,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 0,
+      "harmful_candidates": 0,
+      "mean_extra_seconds": 0.09208294999843929,
+      "delta_ci": {
+        "mean": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    },
+    {
+      "condition": "brightness_0.65",
+      "n": 10,
+      "baseline_dice": 0.5913066700546968,
+      "candidate_dice": 0.5914683576311853,
+      "gated_dice": 0.5913066700546968,
+      "accepted": 0,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 0,
+      "harmful_candidates": 0,
+      "mean_extra_seconds": 0.04793165999872144,
+      "delta_ci": {
+        "mean": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    },
+    {
+      "condition": "gamma_1.8",
+      "n": 10,
+      "baseline_dice": 0.5249903628506747,
+      "candidate_dice": 0.5251875699154633,
+      "gated_dice": 0.5249903628506747,
+      "accepted": 0,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 0,
+      "harmful_candidates": 0,
+      "mean_extra_seconds": 0.046779630004311915,
+      "delta_ci": {
+        "mean": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    },
+    {
+      "condition": "gaussian_noise_0.08",
+      "n": 10,
+      "baseline_dice": 0.05339017959479644,
+      "candidate_dice": 0.054002224999746405,
+      "gated_dice": 0.05339017959479644,
+      "accepted": 0,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 0,
+      "harmful_candidates": 0,
+      "mean_extra_seconds": 0.04821309000544716,
+      "delta_ci": {
+        "mean": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    },
+    {
+      "condition": "gaussian_blur_1.5",
+      "n": 10,
+      "baseline_dice": 0.09644919742798867,
+      "candidate_dice": 0.101711466069599,
+      "gated_dice": 0.09647441551187588,
+      "accepted": 1,
+      "harmful_accepted": 0,
+      "harmful_accepted_any": 0,
+      "harmful_candidates": 0,
+      "mean_extra_seconds": 0.04620509999804199,
+      "delta_ci": {
+        "mean": 2.5218083887217595e-05,
+        "low": 0.0,
+        "high": 7.565425166165278e-05,
+        "unit": "case/tile; source video dependence not modeled"
+      }
+    }
+  ]
+}

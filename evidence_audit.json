@@ -1,0 +1,62 @@
+{
+  "clinic": {
+    "status": "PASS",
+    "epochs": 200,
+    "split_sizes": [
+      489,
+      61,
+      62
+    ],
+    "best_epoch": 58,
+    "checkpoint_sha256": "1e9768a3745b4a0e5092a53eaa9a22b585087c99e7973df9d3e71ea324303c9f",
+    "data_files_hashed": 1224,
+    "metric_records_checked": 124,
+    "pilot_cases_checked": 310,
+    "max_clean_batching_dice_difference": 0.0005882177608543815,
+    "clean_batching_tolerance": 0.001,
+    "checks": [
+      "complete epoch sequence",
+      "validation-only checkpoint selection",
+      "checkpoint and architecture hashes",
+      "exact-image split disjointness",
+      "available dataset-file hashes",
+      "native Dice and IoU from integer counts",
+      "aggregate metrics",
+      "label-free gate decisions",
+      "gated output selection",
+      "identical clean ground-truth counts",
+      "clean pilot versus main evaluation within recorded numerical tolerance",
+      "harm counts"
+    ]
+  },
+  "mass": {
+    "status": "PASS",
+    "epochs": 200,
+    "split_sizes": [
+      137,
+      4,
+      10
+    ],
+    "best_epoch": 136,
+    "checkpoint_sha256": "fc41306e922201fc98d747073e047c4c33321886af617780f37629b78be00a4f",
+    "data_files_hashed": 302,
+    "metric_records_checked": 20,
+    "pilot_cases_checked": 50,
+    "max_clean_batching_dice_difference": 5.9533974448466864e-05,
+    "clean_batching_tolerance": 0.001,
+    "checks": [
+      "complete epoch sequence",
+      "validation-only checkpoint selection",
+      "checkpoint and architecture hashes",
+      "exact-image split disjointness",
+      "available dataset-file hashes",
+      "native Dice and IoU from integer counts",
+      "aggregate metrics",
+      "label-free gate decisions",
+      "gated output selection",
+      "identical clean ground-truth counts",
+      "clean pilot versus main evaluation within recorded numerical tolerance",
+      "harm counts"
+    ]
+  }
+}

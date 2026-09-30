@@ -1,0 +1,59 @@
+{
+  "train": {
+    "tiles": 137,
+    "foreground_fraction_min": 0.030686666666666668,
+    "foreground_fraction_max": 0.306144,
+    "foreground_fraction_mean": 0.13195585077047853,
+    "verified_colors": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        255,
+        0,
+        0
+      ]
+    ],
+    "decoder": "red channel >127; grayscale would erase red labels"
+  },
+  "valid": {
+    "tiles": 4,
+    "foreground_fraction_min": 0.05969555555555556,
+    "foreground_fraction_max": 0.15058622222222223,
+    "foreground_fraction_mean": 0.10884288888888889,
+    "verified_colors": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        255,
+        0,
+        0
+      ]
+    ],
+    "decoder": "red channel >127; grayscale would erase red labels"
+  },
+  "test": {
+    "tiles": 10,
+    "foreground_fraction_min": 0.08806933333333333,
+    "foreground_fraction_max": 0.3568862222222222,
+    "foreground_fraction_mean": 0.18606613333333333,
+    "verified_colors": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        255,
+        0,
+        0
+      ]
+    ],
+    "decoder": "red channel >127; grayscale would erase red labels"
+  }
+}

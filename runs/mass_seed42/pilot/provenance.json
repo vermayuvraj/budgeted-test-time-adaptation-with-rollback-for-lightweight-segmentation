@@ -1,0 +1,23 @@
+{
+  "checkpoint_sha256": "fc41306e922201fc98d747073e047c4c33321886af617780f37629b78be00a4f",
+  "script_sha256": "6a4af3e1a87cfea49132d13a70f00c071e6e68f8ea730d5f1826cd6719dc08cd",
+  "protocol": {
+    "seed": 20260930,
+    "conditions": [
+      "clean",
+      "brightness_0.65",
+      "gamma_1.8",
+      "gaussian_noise_0.08",
+      "gaussian_blur_1.5"
+    ],
+    "lr": 0.001,
+    "steps": 1,
+    "accept_js_improvement": 1e-06,
+    "max_area_change": 0.05,
+    "harm_dice_threshold": 0.01,
+    "episodic_reset": true,
+    "update": "BatchNorm affine only; source running statistics frozen",
+    "labels": "used only for final scoring, never for updates or gating",
+    "status": "fixed before seeing held-out stress-test results"
+  }
+}
